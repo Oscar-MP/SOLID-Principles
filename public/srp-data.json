@@ -1,0 +1,32 @@
+{
+    "data": [
+      { "text": "Finish report for client meeting", "done": false },
+      { "text": "Buy groceries for the week", "done": true },
+      { "text": "Learn a new programming language feature", "done": false },
+      { "text": "Read a chapter from 'The Art of War'", "done": true },
+      { "text": "Fix bug in the authentication system", "done": false },
+      { "text": "Write a blog post on effective time management", "done": true },
+      { "text": "Complete online course on React Hooks", "done": false },
+      { "text": "Buy birthday gift for a friend", "done": true },
+      { "text": "Read articles on machine learning trends", "done": false },
+      { "text": "Fix responsive design issues in the app", "done": true },
+      { "text": "Learn to play a new musical instrument", "done": false },
+      { "text": "Complete 30 minutes of daily exercise", "done": true },
+      { "text": "Testing 2", "done": false },
+      { "text": "Buy ingredients for a new recipe", "done": true },
+      { "text": "Write code documentation for the project", "done": false },
+      { "text": "Complete online course on UX design", "done": true },
+      { "text": "Learn basic phrases in a new language", "done": false },
+      { "text": "Read a tech-related article", "done": true },
+      { "text": "Write thank-you notes for colleagues", "done": false },
+      { "text": "Testing 3", "done": true },
+      { "text": "Fix issues reported by QA", "done": false },
+      { "text": "Buy a book from the local bookstore", "done": true },
+      { "text": "Read 'Atomic Habits' by James Clear", "done": false },
+      { "text": "Complete 10k steps for the day", "done": true },
+      { "text": "Write a letter to a family member", "done": false },
+      { "text": "Learn about new software development tools", "done": true },
+      { "text": "Testing 4", "done": false }
+    ]
+  }
+  
