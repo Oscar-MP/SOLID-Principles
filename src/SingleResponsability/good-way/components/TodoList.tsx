@@ -15,7 +15,7 @@ const TodoList = ({ list }: TodoListProps): JSX.Element => {
       {list.length > 0 && (
         <ul className="todo-list">
           {list
-            .filter((todo) => todo.done !== false)
+            .filter((todo) => todo.done === false)
             .map((todo) => {
               return (
                 <li key={todo.text}>

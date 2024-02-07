@@ -6,6 +6,7 @@ export const fetchTODOs = (): Promise<Todo[]> => {
     .get<ApiResponse<Todo[]>>("/srp-data.json")
     .then((response) => response.data.data)
     .catch((err) => {
+        if (err.code === 500) return []
         throw err
     });
 };
